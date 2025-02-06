@@ -4,5 +4,6 @@ Hello! All the work here in the misc. branch is such that it can be run using a 
 As usual, anything here can be used at your own discretion, enjoy!
 
 Work with the same numbers / symbols mean they are to be used in conjunction with one another 
+You will find these in the format  ' XXX00_... ' 
 
 The work uploaded is typically created on IntelliJ
