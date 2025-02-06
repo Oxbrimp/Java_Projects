@@ -1,0 +1,24 @@
+public class Main{
+    public static void main(String[] args){
+
+        GeneralCalculator genCal = new GeneralCalculator();
+
+        System.out.println(genCal.factorial(10));
+
+
+    }
+}
+
+
+public class GeneralCalculator {
+
+    public int factorial(int n){
+        if (n == 1 ){
+            return 1;
+        }
+        else {
+            return n * factorial(n-1);
+        }
+    }
+
+}
