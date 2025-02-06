@@ -1,0 +1,23 @@
+// A demonstration of pre-increment & post-increment notation 
+
+public class Main{
+    public static void main(String[] args){
+        Addit ad = new Addit();
+        
+        System.out.println(ad.preCal(3));
+        System.out.println(ad.postCal(3));
+    }
+}
+
+
+class Addit{
+    public int preCal(int n){
+        int i = 0;
+        return ++i * n; // i is +1'ed before * n
+    }
+    public int postCal(int n){
+        int i = 0;
+        return i++ * n; // i * n then does i + 1
+    }
+}
+
