@@ -1,6 +1,6 @@
 # Java_Projects
 
-Hello! As usual, everything you see here is open-source and free for use
-Should there be any issue with the work, please let me know.
+Hello! All the work here in the misc. branch is such that it can be run using a single script only - these are the simplest of the simplest scripts I have made.
+As usual, anything here can be used at your own discretion, enjoy!
 
 The work uploaded is typically created on IntelliJ
